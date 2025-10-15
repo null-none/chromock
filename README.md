@@ -24,7 +24,7 @@ chrome.storage.local.set({ score: 42 });
 chrome.storage.local.get("score", v => console.log(v.score));
 ```
 
-✅ Supports:
+Supports:
 - `runtime.sendMessage`, `onMessage`
 - `storage.local`
 - `tabs.query`, `sendMessage`
