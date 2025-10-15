@@ -1,0 +1,27 @@
+{
+  "name": "chromock",
+  "version": "1.0.0",
+  "description": "Lightweight mock for Chrome Extension API for browsers and tests.",
+  "main": "dist/chromock.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "chrome",
+    "mock",
+    "testing",
+    "extensions",
+    "browser",
+    "chromock"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/null-none/chromock.git"
+  },
+  "homepage": "https://github.com/null-none/chromock#readme",
+  "author": "Mitko Kalinin",
+  "license": "MIT",
+  "type": "module"
+}
